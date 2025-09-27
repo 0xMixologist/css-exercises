@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.b1 {
+  background-color: black;
+  color: white;
+}
+
+.b2 {
+  background-color: yellow;
+}
+
+.common_adjust {
+  font-size: 28px;
+  font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+   
